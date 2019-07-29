@@ -9,6 +9,4 @@ require 'pry'
   end 
   
   
-end
-
 create_project_hash
